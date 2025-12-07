@@ -30,7 +30,7 @@ A trading card game about meeting unique people.
 
   - ### Slot 3: Visualization Method
     - Make sure to be semi-precise with this, for example:
-      - If you print, draw with crayons, and scan it, make sure to put "Crayon" in this slot!
+      - If you print, draw with crayons, and scan it, make sure to put "Crayon" in this slot
       - If you use a rendered 3D model, try "3D Modeled"
       - If you use a pencil, maybe "Sketched"
      
