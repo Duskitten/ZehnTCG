@@ -16,6 +16,8 @@ A trading card game about meeting unique people.
       - Red
       - Blue
       - Yellow
+      - Pink
+      - Cyan
       - Orange
       - Purple
       - Green
